@@ -1,0 +1,242 @@
+{
+  "cities": [
+    {
+      "name": "Mumbai",
+      "date": "Wed, 25 Dec",
+      "temp": "32 °C",
+      "condition": "Sunny",
+      "humidity": "70%",
+      "wind": "12 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "33 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "34 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "32 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "date": "Wed, 25 Dec",
+      "temp": "18 °C",
+      "condition": "Foggy",
+      "humidity": "85%",
+      "wind": "5 km/h",
+      "icon": "fog.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "19 °C", "icon": "fog.png" },
+        { "date": "27 Dec", "temp": "20 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "18 °C", "icon": "fog.png" }
+      ]
+    },
+    {
+      "name": "Bengaluru",
+      "date": "Wed, 25 Dec",
+      "temp": "25 °C",
+      "condition": "Cloudy",
+      "humidity": "65%",
+      "wind": "8 km/h",
+      "icon": "clouds.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "26 °C", "icon": "clouds.png" },
+        { "date": "27 Dec", "temp": "27 °C", "icon": "sun.png" },
+        { "date": "28 Dec", "temp": "25 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "Chennai",
+      "date": "Wed, 25 Dec",
+      "temp": "30 °C",
+      "condition": "Sunny",
+      "humidity": "75%",
+      "wind": "10 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "31 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "32 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "30 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "Kolkata",
+      "date": "Wed, 25 Dec",
+      "temp": "22 °C",
+      "condition": "Cloudy",
+      "humidity": "80%",
+      "wind": "6 km/h",
+      "icon": "clouds.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "23 °C", "icon": "clouds.png" },
+        { "date": "27 Dec", "temp": "24 °C", "icon": "sun.png" },
+        { "date": "28 Dec", "temp": "22 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "Jaipur",
+      "date": "Wed, 25 Dec",
+      "temp": "20 °C",
+      "condition": "Clear",
+      "humidity": "50%",
+      "wind": "7 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "21 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "22 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "20 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "Hyderabad",
+      "date": "Wed, 25 Dec",
+      "temp": "27 °C",
+      "condition": "Sunny",
+      "humidity": "60%",
+      "wind": "9 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "28 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "29 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "27 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "Ahmedabad",
+      "date": "Wed, 25 Dec",
+      "temp": "24 °C",
+      "condition": "Clear",
+      "humidity": "55%",
+      "wind": "10 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "25 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "26 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "24 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "Pune",
+      "date": "Wed, 25 Dec",
+      "temp": "23 °C",
+      "condition": "Cloudy",
+      "humidity": "60%",
+      "wind": "8 km/h",
+      "icon": "clouds.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "24 °C", "icon": "clouds.png" },
+        { "date": "27 Dec", "temp": "25 °C", "icon": "sun.png" },
+        { "date": "28 Dec", "temp": "23 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "",
+      "date": "Wed, 25 Dec",
+      "temp": "24 °C",
+      "condition": "Clear",
+      "humidity": "50%",
+      "wind": "6 km/h",
+      "icon": "clear.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "25 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "24 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "26 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "surat",
+      "date": "Wed, 25 Dec",
+      "temp": "4 °C",
+      "condition": "Foggy",
+      "humidity": "85%",
+      "wind": "2 km/h",
+      "icon": "fog.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "5 °C", "icon": "mist.png" },
+        { "date": "27 Dec", "temp": "3 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "4 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "date": "Wed, 25 Dec",
+      "temp": "22 °C",
+      "condition": "Windy",
+      "humidity": "40%",
+      "wind": "20 km/h",
+      "icon": "wind.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "21 °C", "icon": "clouds.png" },
+        { "date": "27 Dec", "temp": "20 °C", "icon": "sun.png" },
+        { "date": "28 Dec", "temp": "22 °C", "icon": "wind.png" }
+      ]
+    },
+    {
+      "name": "Ahmedabad",
+      "date": "Wed, 25 Dec",
+      "temp": "28 °C",
+      "condition": "Sunny",
+      "humidity": "60%",
+      "wind": "10 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "29 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "30 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "27 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "New York",
+      "date": "Wed, 25 Dec",
+      "temp": "29 °C",
+      "condition": "Cloudy",
+      "humidity": "55%",
+      "wind": "5 km/h",
+      "icon": "clouds.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "28 °C", "icon": "rain.png" },
+        { "date": "27 Dec", "temp": "30 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "25 °C", "icon": "sun.png" }
+      ]
+    },
+    {
+      "name": "London",
+      "date": "Wed, 25 Dec",
+      "temp": "10 °C",
+      "condition": "Rainy",
+      "humidity": "80%",
+      "wind": "15 km/h",
+      "icon": "rain.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "11 °C", "icon": "clouds.png" },
+        { "date": "27 Dec", "temp": "12 °C", "icon": "rain.png" },
+        { "date": "28 Dec", "temp": "9 °C", "icon": "mist.png" }
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "date": "Wed, 25 Dec",
+      "temp": "18 °C",
+      "condition": "Sunny",
+      "humidity": "40%",
+      "wind": "10 km/h",
+      "icon": "sun.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "19 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "17 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "16 °C", "icon": "rain.png" }
+      ]
+    },
+    {
+      "name": "Paris",
+      "date": "Wed, 25 Dec",
+      "temp": "12 °C",
+      "condition": "Partly Cloudy",
+      "humidity": "60%",
+      "wind": "8 km/h",
+      "icon": "clouds.png",
+      "forecast": [
+        { "date": "26 Dec", "temp": "13 °C", "icon": "sun.png" },
+        { "date": "27 Dec", "temp": "14 °C", "icon": "clouds.png" },
+        { "date": "28 Dec", "temp": "12 °C", "icon": "mist.png" }
+      ]
+    }
+  ]
+}
